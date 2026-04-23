@@ -1,6 +1,7 @@
 [English](#en) | [中文](#zh)
 
 ---
+![sample](./sample.png)
 
 <a id="en"></a>
 # Obsidian Video Assistant
