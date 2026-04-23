@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-video-assistant",
+	"name": "Video Assistant",
+	"version": "1.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Learn languages with YouTube videos through shadowing practice, translations, and grammar analysis.",
+	"author": "scarlett-s",
+	"authorUrl": "https://github.com/scarlett-s",
+	"fundingUrl": "https://github.com/scarlett-s/obsidian-language-learning",
+	"isDesktopOnly": false
+}
